@@ -1,0 +1,21 @@
+
+.codeTab {
+    width: 100%;
+    height: 42rem;
+    border: 1px solid grey;
+    padding: .2rem .5rem;
+    overflow: scroll;
+    resize: none;
+    border-radius: 4px;
+    border: none;
+}
+
+.addTab {
+    height: 2.5rem;
+}
+
+.removeTab:hover {
+    cursor: pointer;
+    background-color: #f83636;
+    color: #fff;
+}
